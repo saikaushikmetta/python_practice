@@ -4,6 +4,7 @@ def welcome(greet):
 welcome("welcome to python programming!\n")
 #the above one is of my logic
 #the right way is
+#this is also called as function defination without any parameter
 def welcome_message():
     print("welcome to python programming")
 welcome_message()
